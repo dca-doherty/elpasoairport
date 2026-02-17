@@ -1,0 +1,83 @@
+[
+  {
+    "time": "2026-02-09T04:55:19.730000Z",
+    "magnitude": 2.5,
+    "latitude": 31.721,
+    "longitude": -104.514,
+    "depth_km": 5.2283,
+    "description": "52 km SSW of Whites City, New Mexico",
+    "period": "Feb 8-9 (booming sounds)"
+  },
+  {
+    "time": "2026-02-08T07:35:17.777000Z",
+    "magnitude": 2.1,
+    "latitude": 31.713,
+    "longitude": -104.514,
+    "depth_km": 5.946,
+    "description": "52 km SSW of Whites City, New Mexico",
+    "period": "Feb 8-9 (booming sounds)"
+  },
+  {
+    "time": "2026-02-13T22:36:28.307000Z",
+    "magnitude": 1.5,
+    "latitude": 31.651,
+    "longitude": -104.423,
+    "depth_km": 5.8435,
+    "description": "58 km S of Whites City, New Mexico",
+    "period": "Feb 7-14 (extended)"
+  },
+  {
+    "time": "2026-02-13T17:53:55.304000Z",
+    "magnitude": 1.5,
+    "latitude": 31.648,
+    "longitude": -104.469,
+    "depth_km": 6.4331000000000005,
+    "description": "59 km S of Whites City, New Mexico",
+    "period": "Feb 7-14 (extended)"
+  },
+  {
+    "time": "2026-02-13T12:53:42.896000Z",
+    "magnitude": 1.6,
+    "latitude": 31.652,
+    "longitude": -104.43,
+    "depth_km": 5.8948,
+    "description": "58 km S of Whites City, New Mexico",
+    "period": "Feb 7-14 (extended)"
+  },
+  {
+    "time": "2026-02-12T07:55:17.546000Z",
+    "magnitude": 1.8,
+    "latitude": 31.676,
+    "longitude": -104.455,
+    "depth_km": 6.5356000000000005,
+    "description": "55 km S of Whites City, New Mexico",
+    "period": "Feb 7-14 (extended)"
+  },
+  {
+    "time": "2026-02-10T08:32:11.693000Z",
+    "magnitude": 1.6,
+    "latitude": 31.652,
+    "longitude": -104.42,
+    "depth_km": 6.0999,
+    "description": "58 km S of Whites City, New Mexico",
+    "period": "Feb 7-14 (extended)"
+  },
+  {
+    "time": "2026-02-09T04:55:19.730000Z",
+    "magnitude": 2.5,
+    "latitude": 31.721,
+    "longitude": -104.514,
+    "depth_km": 5.2283,
+    "description": "52 km SSW of Whites City, New Mexico",
+    "period": "Feb 7-14 (extended)"
+  },
+  {
+    "time": "2026-02-08T07:35:17.777000Z",
+    "magnitude": 2.1,
+    "latitude": 31.713,
+    "longitude": -104.514,
+    "depth_km": 5.946,
+    "description": "52 km SSW of Whites City, New Mexico",
+    "period": "Feb 7-14 (extended)"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "timing_analysis": {
+    "event_window": "03:00-07:00 UTC",
+    "viirs_overpass": "~08:30 UTC (descending/nighttime)",
+    "gap_hours": 1.5,
+    "assessment": "limited_utility_timing_mismatch"
+  },
+  "data_availability": {
+    "VNP46A1": "Available at LAADS DAAC, requires Earthdata token",
+    "tile": "h08v05"
+  },
+  "verdict": "timing_mismatch_limited_utility"
+}

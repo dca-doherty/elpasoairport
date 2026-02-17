@@ -1,0 +1,23 @@
+{
+  "search_area": {
+    "lamin": 31.0,
+    "lamax": 33.0,
+    "lomin": -107.5,
+    "lomax": -105.5
+  },
+  "event_window": {
+    "start_utc": "2026-02-11T03:00:00+00:00",
+    "end_utc": "2026-02-11T07:00:00+00:00",
+    "total_aircraft": 0,
+    "military_aircraft": 0,
+    "military_details": {},
+    "all_callsigns": []
+  },
+  "baseline_window": {
+    "start_utc": "2026-02-10T03:00:00+00:00",
+    "end_utc": "2026-02-10T07:00:00+00:00",
+    "total_aircraft": 0,
+    "military_aircraft": 0
+  },
+  "verdict": "no_military_adsb"
+}

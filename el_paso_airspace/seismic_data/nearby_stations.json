@@ -1,0 +1,371 @@
+[
+  {
+    "network": "28",
+    "station": "ASSS",
+    "lat": 31.93538,
+    "lon": -108.544465,
+    "elevation_m": 1345.0,
+    "name": "Airstrip",
+    "dist_km": 190.9772822932983
+  },
+  {
+    "network": "28",
+    "station": "CHSS",
+    "lat": 31.963704,
+    "lon": -108.520621,
+    "elevation_m": 1394.0,
+    "name": "Communication Hill",
+    "dist_km": 188.87825589166013
+  },
+  {
+    "network": "28",
+    "station": "CVSS",
+    "lat": 31.948301,
+    "lon": -108.49723,
+    "elevation_m": 1421.0,
+    "name": "Communication Village",
+    "dist_km": 186.58919930824447
+  },
+  {
+    "network": "28",
+    "station": "MVSS",
+    "lat": 31.884976,
+    "lon": -108.50845,
+    "elevation_m": 1411.0,
+    "name": "Mountain Village",
+    "dist_km": 187.4517061943292
+  },
+  {
+    "network": "28",
+    "station": "NMSS",
+    "lat": 31.921123,
+    "lon": -108.528004,
+    "elevation_m": 1366.0,
+    "name": "North Montana Cul-de-sac",
+    "dist_km": 189.37266454114913
+  },
+  {
+    "network": "EP",
+    "station": "KIDD",
+    "lat": 31.771774,
+    "lon": -106.506378,
+    "elevation_m": 1162.5,
+    "name": "KIDD Seismic Observatory, U. Texas El Paso, Texas, USA",
+    "dist_km": 10.978442269518242
+  },
+  {
+    "network": "JW",
+    "station": "BRR",
+    "lat": 32.772406,
+    "lon": -107.564169,
+    "elevation_m": 1640.0,
+    "name": "BRR",
+    "dist_km": 140.4348554819547
+  },
+  {
+    "network": "PN",
+    "station": "PPDHS",
+    "lat": 32.256001,
+    "lon": -107.763,
+    "elevation_m": 1321.0,
+    "name": "Deming High School, Deming, NM, USA",
+    "dist_km": 124.76128631067063
+  },
+  {
+    "network": "SC",
+    "station": "121A",
+    "lat": 32.532398,
+    "lon": -107.785103,
+    "elevation_m": 1652.0,
+    "name": "Cookes Peak, Deming, NM, USA",
+    "dist_km": 140.101063541519
+  },
+  {
+    "network": "SC",
+    "station": "DAG",
+    "lat": 32.591,
+    "lon": -104.691704,
+    "elevation_m": 1280.0,
+    "name": "Dagger Draw, New Mexico",
+    "dist_km": 190.0223871860307
+  },
+  {
+    "network": "SY",
+    "station": "121A",
+    "lat": 32.532398,
+    "lon": -107.785103,
+    "elevation_m": 1652.0,
+    "name": "121A synthetic",
+    "dist_km": 140.101063541519
+  },
+  {
+    "network": "SY",
+    "station": "122A",
+    "lat": 32.699501,
+    "lon": -107.000504,
+    "elevation_m": 1333.0,
+    "name": "122A synthetic",
+    "dist_km": 102.61292549073555
+  },
+  {
+    "network": "SY",
+    "station": "123A",
+    "lat": 32.634899,
+    "lon": -106.262199,
+    "elevation_m": 1206.0,
+    "name": "123A synthetic",
+    "dist_km": 88.31331273056085
+  },
+  {
+    "network": "SY",
+    "station": "124A",
+    "lat": 32.7001,
+    "lon": -105.454399,
+    "elevation_m": 2078.0,
+    "name": "124A synthetic",
+    "dist_km": 136.30954759620226
+  },
+  {
+    "network": "SY",
+    "station": "125A",
+    "lat": 32.658798,
+    "lon": -104.657303,
+    "elevation_m": 1212.0,
+    "name": "125A synthetic",
+    "dist_km": 196.2091078100881
+  },
+  {
+    "network": "SY",
+    "station": "220A",
+    "lat": 31.9041,
+    "lon": -108.526604,
+    "elevation_m": 1395.0,
+    "name": "220A synthetic",
+    "dist_km": 189.19351735345074
+  },
+  {
+    "network": "SY",
+    "station": "221A",
+    "lat": 32.009399,
+    "lon": -107.778198,
+    "elevation_m": 1277.0,
+    "name": "221A synthetic",
+    "dist_km": 119.61105446869821
+  },
+  {
+    "network": "SY",
+    "station": "222A",
+    "lat": 32.104599,
+    "lon": -107.101303,
+    "elevation_m": 1324.0,
+    "name": "222A synthetic",
+    "dist_km": 60.670138129917405
+  },
+  {
+    "network": "SY",
+    "station": "223A",
+    "lat": 32.006199,
+    "lon": -106.427597,
+    "elevation_m": 1232.0,
+    "name": "223A synthetic",
+    "dist_km": 17.447912363983324
+  },
+  {
+    "network": "SY",
+    "station": "224A",
+    "lat": 32.076,
+    "lon": -105.522598,
+    "elevation_m": 1487.0,
+    "name": "224A synthetic",
+    "dist_km": 96.76220896922933
+  },
+  {
+    "network": "SY",
+    "station": "225A",
+    "lat": 32.1101,
+    "lon": -104.822899,
+    "elevation_m": 1703.0,
+    "name": "225A synthetic",
+    "dist_km": 162.18458411177915
+  },
+  {
+    "network": "SY",
+    "station": "320A",
+    "lat": 31.336901,
+    "lon": -108.528397,
+    "elevation_m": 1414.0,
+    "name": "320A synthetic",
+    "dist_km": 198.35672844779648
+  },
+  {
+    "network": "SY",
+    "station": "324A",
+    "lat": 31.442499,
+    "lon": -105.482803,
+    "elevation_m": 1441.0,
+    "name": "324A synthetic",
+    "dist_km": 108.67984118443923
+  },
+  {
+    "network": "SY",
+    "station": "325A",
+    "lat": 31.371099,
+    "lon": -104.971199,
+    "elevation_m": 1666.0,
+    "name": "325A synthetic",
+    "dist_km": 156.1498136629684
+  },
+  {
+    "network": "SY",
+    "station": "425A",
+    "lat": 30.7862,
+    "lon": -104.985703,
+    "elevation_m": 1337.0,
+    "name": "425A synthetic",
+    "dist_km": 188.12548353948705
+  },
+  {
+    "network": "SY",
+    "station": "KIDD",
+    "lat": 31.771774,
+    "lon": -106.506378,
+    "elevation_m": 1162.5,
+    "name": "KIDD synthetic",
+    "dist_km": 10.978442269518242
+  },
+  {
+    "network": "SY",
+    "station": "MNTX",
+    "lat": 31.6985,
+    "lon": -105.382103,
+    "elevation_m": 404.8,
+    "name": "MNTX synthetic",
+    "dist_km": 108.94174690670616
+  },
+  {
+    "network": "SY",
+    "station": "PPDHS",
+    "lat": 32.256001,
+    "lon": -107.763,
+    "elevation_m": 1321.0,
+    "name": "PPDHS synthetic",
+    "dist_km": 124.76128631067063
+  },
+  {
+    "network": "SY",
+    "station": "Z21A",
+    "lat": 33.308601,
+    "lon": -107.671204,
+    "elevation_m": 1964.0,
+    "name": "Z21A synthetic",
+    "dist_km": 193.06943168967808
+  },
+  {
+    "network": "SY",
+    "station": "Z22A",
+    "lat": 33.255501,
+    "lon": -106.963898,
+    "elevation_m": 1497.0,
+    "name": "Z22A synthetic",
+    "dist_km": 159.3817240814459
+  },
+  {
+    "network": "SY",
+    "station": "Z23A",
+    "lat": 33.2621,
+    "lon": -106.231903,
+    "elevation_m": 1278.0,
+    "name": "Z23A synthetic",
+    "dist_km": 156.8914931791031
+  },
+  {
+    "network": "SY",
+    "station": "Z24A",
+    "lat": 33.3298,
+    "lon": -105.364899,
+    "elevation_m": 1863.0,
+    "name": "Z24A synthetic",
+    "dist_km": 195.2247762121012
+  },
+  {
+    "network": "TX",
+    "station": "PB28",
+    "lat": 31.66864,
+    "lon": -104.50077,
+    "elevation_m": 1204.0,
+    "name": "Culberson South",
+    "dist_km": 191.65362443826396
+  },
+  {
+    "network": "TX",
+    "station": "PB29",
+    "lat": 31.75299,
+    "lon": -104.514453,
+    "elevation_m": 1242.0,
+    "name": "Culberson North",
+    "dist_km": 189.50162561924796
+  },
+  {
+    "network": "TX",
+    "station": "PB35",
+    "lat": 31.656187,
+    "lon": -104.43203,
+    "elevation_m": 1224.0,
+    "name": "UTL Block 46",
+    "dist_km": 198.25145625193088
+  },
+  {
+    "network": "TX",
+    "station": "PB36",
+    "lat": 31.680262,
+    "lon": -104.425899,
+    "elevation_m": 1218.0,
+    "name": "UTL Block 46",
+    "dist_km": 198.52400249214648
+  },
+  {
+    "network": "TX",
+    "station": "PB37",
+    "lat": 31.71847,
+    "lon": -104.528416,
+    "elevation_m": 1263.0,
+    "name": "UTL Block  46",
+    "dist_km": 188.49171503258503
+  },
+  {
+    "network": "TX",
+    "station": "PB38",
+    "lat": 31.72972,
+    "lon": -104.426634,
+    "elevation_m": 1240.0,
+    "name": "UTL Block 46",
+    "dist_km": 197.94778614306873
+  },
+  {
+    "network": "TX",
+    "station": "PB59",
+    "lat": 31.889954,
+    "lon": -104.81204,
+    "elevation_m": 1705.0,
+    "name": "Pine Springs TxDot",
+    "dist_km": 161.01874283900264
+  },
+  {
+    "network": "TX",
+    "station": "VHRN",
+    "lat": 30.786736,
+    "lon": -104.985193,
+    "elevation_m": 1253.0,
+    "name": "Van Horn",
+    "dist_km": 188.1244141047056
+  },
+  {
+    "network": "US",
+    "station": "MNTX",
+    "lat": 31.6985,
+    "lon": -105.3821,
+    "elevation_m": 404.8,
+    "name": "Cornudas Mountains, Texas, USA",
+    "dist_km": 108.94202535539712
+  }
+]

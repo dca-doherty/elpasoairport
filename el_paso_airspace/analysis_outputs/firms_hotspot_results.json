@@ -1,0 +1,24 @@
+{
+  "search_area": {
+    "west": -107.0,
+    "south": 31.5,
+    "east": -106.0,
+    "north": 32.5
+  },
+  "date_range": "2026-02-10 +/- 5 days",
+  "sources_checked": [
+    "VIIRS_SNPP",
+    "VIIRS_NOAA20",
+    "VIIRS_NOAA21",
+    "MODIS_NRT"
+  ],
+  "total_hotspots": 0,
+  "by_source": {
+    "VIIRS_SNPP": 0,
+    "VIIRS_NOAA20": 0,
+    "VIIRS_NOAA21": 0,
+    "MODIS_NRT": 0
+  },
+  "fort_bliss_hotspots": 0,
+  "verdict": "no_detection"
+}

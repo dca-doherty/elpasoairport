@@ -1,0 +1,645 @@
+[
+  {
+    "network": "EP",
+    "station": "KIDD",
+    "latitude": 31.771774,
+    "longitude": -106.506378,
+    "elevation_m": 1162.5,
+    "name": "KIDD Seismic Observatory, U. Texas El Paso, Texas, USA",
+    "channels": [
+      "BHE",
+      "BHN",
+      "BHZ",
+      "HHE",
+      "HHN",
+      "HHZ",
+      "HNE",
+      "HNN",
+      "HNZ",
+      "LHE",
+      "LHN",
+      "LHZ"
+    ],
+    "dist_km": 10.967750121712461
+  },
+  {
+    "network": "SY",
+    "station": "KIDD",
+    "latitude": 31.771774,
+    "longitude": -106.506378,
+    "elevation_m": 1162.5,
+    "name": "KIDD synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 10.967750121712461
+  },
+  {
+    "network": "SY",
+    "station": "223A",
+    "latitude": 32.006199,
+    "longitude": -106.427597,
+    "elevation_m": 1232.0,
+    "name": "223A synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 17.447830292732306
+  },
+  {
+    "network": "SY",
+    "station": "222A",
+    "latitude": 32.104599,
+    "longitude": -107.101303,
+    "elevation_m": 1324.0,
+    "name": "222A synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 60.78444339066721
+  },
+  {
+    "network": "SY",
+    "station": "123A",
+    "latitude": 32.634899,
+    "longitude": -106.262199,
+    "elevation_m": 1206.0,
+    "name": "123A synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 88.23086967853196
+  },
+  {
+    "network": "SY",
+    "station": "224A",
+    "latitude": 32.076,
+    "longitude": -105.522598,
+    "elevation_m": 1487.0,
+    "name": "224A synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 97.00270118571164
+  },
+  {
+    "network": "SY",
+    "station": "122A",
+    "latitude": 32.699501,
+    "longitude": -107.000504,
+    "elevation_m": 1333.0,
+    "name": "122A synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 102.51787175910147
+  },
+  {
+    "network": "SY",
+    "station": "324A",
+    "latitude": 31.442499,
+    "longitude": -105.482803,
+    "elevation_m": 1441.0,
+    "name": "324A synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 109.19604968161119
+  },
+  {
+    "network": "SY",
+    "station": "MNTX",
+    "latitude": 31.6985,
+    "longitude": -105.382103,
+    "elevation_m": 404.8,
+    "name": "MNTX synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 109.43874425936039
+  },
+  {
+    "network": "US",
+    "station": "MNTX",
+    "latitude": 31.6985,
+    "longitude": -105.3821,
+    "elevation_m": 404.8,
+    "name": "Cornudas Mountains, Texas, USA",
+    "channels": [
+      "HH1",
+      "HH2",
+      "HHZ",
+      "HN1",
+      "HN2",
+      "HNZ",
+      "LH1",
+      "LH2",
+      "LHZ",
+      "LN1",
+      "LN2",
+      "LNZ",
+      "VH1",
+      "VH2",
+      "VHZ",
+      "VMU",
+      "VMV",
+      "VMW"
+    ],
+    "dist_km": 109.43902407402018
+  },
+  {
+    "network": "SY",
+    "station": "221A",
+    "latitude": 32.009399,
+    "longitude": -107.778198,
+    "elevation_m": 1277.0,
+    "name": "221A synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 119.96806835423102
+  },
+  {
+    "network": "PN",
+    "station": "PPDHS",
+    "latitude": 32.256001,
+    "longitude": -107.763,
+    "elevation_m": 1321.0,
+    "name": "Deming High School, Deming, NM, USA",
+    "channels": [
+      "BHZ"
+    ],
+    "dist_km": 124.93443354142482
+  },
+  {
+    "network": "SY",
+    "station": "PPDHS",
+    "latitude": 32.256001,
+    "longitude": -107.763,
+    "elevation_m": 1321.0,
+    "name": "PPDHS synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 124.93443354142482
+  },
+  {
+    "network": "SY",
+    "station": "124A",
+    "latitude": 32.7001,
+    "longitude": -105.454399,
+    "elevation_m": 2078.0,
+    "name": "124A synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 136.19456529526016
+  },
+  {
+    "network": "SC",
+    "station": "121A",
+    "latitude": 32.532398,
+    "longitude": -107.785103,
+    "elevation_m": 1652.0,
+    "name": "Cookes Peak, Deming, NM, USA",
+    "channels": [
+      "ACE",
+      "BDF",
+      "BDO",
+      "BHE",
+      "BHN",
+      "BHZ",
+      "HHE",
+      "HHN",
+      "HHZ",
+      "LCE",
+      "LCO",
+      "LCQ",
+      "LDF",
+      "LDM",
+      "LDO",
+      "LEP",
+      "LHE",
+      "LHN",
+      "LHZ",
+      "LIM",
+      "LKM",
+      "LOG",
+      "OCF",
+      "UHE",
+      "UHN",
+      "UHZ",
+      "VCO",
+      "VEA",
+      "VEC",
+      "VEP",
+      "VHE",
+      "VHN",
+      "VHZ",
+      "VKI",
+      "VM0",
+      "VM1",
+      "VM2",
+      "VM3",
+      "VM4",
+      "VM5",
+      "VM6",
+      "VPB"
+    ],
+    "dist_km": 140.08230689859073
+  },
+  {
+    "network": "SY",
+    "station": "121A",
+    "latitude": 32.532398,
+    "longitude": -107.785103,
+    "elevation_m": 1652.0,
+    "name": "121A synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 140.08230689859073
+  },
+  {
+    "network": "JW",
+    "station": "BRR",
+    "latitude": 32.772406,
+    "longitude": -107.564169,
+    "elevation_m": 1640.0,
+    "name": "BRR",
+    "channels": [
+      "HHE",
+      "HHN",
+      "HHZ"
+    ],
+    "dist_km": 140.28744917564694
+  },
+  {
+    "network": "SY",
+    "station": "Z23A",
+    "latitude": 33.2621,
+    "longitude": -106.231903,
+    "elevation_m": 1278.0,
+    "name": "Z23A synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 156.73185997889638
+  },
+  {
+    "network": "SY",
+    "station": "325A",
+    "latitude": 31.371099,
+    "longitude": -104.971199,
+    "elevation_m": 1666.0,
+    "name": "325A synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 157.0156910062981
+  },
+  {
+    "network": "SY",
+    "station": "Z22A",
+    "latitude": 33.255501,
+    "longitude": -106.963898,
+    "elevation_m": 1497.0,
+    "name": "Z22A synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 159.20171618517892
+  },
+  {
+    "network": "TX",
+    "station": "PB59",
+    "latitude": 31.889954,
+    "longitude": -104.81204,
+    "elevation_m": 1705.0,
+    "name": "Pine Springs TxDot",
+    "channels": [
+      "CHE",
+      "CHN",
+      "CHZ"
+    ],
+    "dist_km": 161.6138647472649
+  },
+  {
+    "network": "SY",
+    "station": "225A",
+    "latitude": 32.1101,
+    "longitude": -104.822899,
+    "elevation_m": 1703.0,
+    "name": "225A synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 162.57465343064825
+  },
+  {
+    "network": "TX",
+    "station": "VHRN",
+    "latitude": 30.786736,
+    "longitude": -104.985193,
+    "elevation_m": 1253.0,
+    "name": "Van Horn",
+    "channels": [
+      "HH1",
+      "HH2",
+      "HHZ"
+    ],
+    "dist_km": 189.1089431051963
+  },
+  {
+    "network": "SY",
+    "station": "425A",
+    "latitude": 30.7862,
+    "longitude": -104.985703,
+    "elevation_m": 1337.0,
+    "name": "425A synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 189.10952571070845
+  },
+  {
+    "network": "TX",
+    "station": "PB37",
+    "latitude": 31.71847,
+    "longitude": -104.528416,
+    "elevation_m": 1263.0,
+    "name": "UTL Block  46",
+    "channels": [
+      "CHE",
+      "CHN",
+      "CHZ"
+    ],
+    "dist_km": 189.3542701726417
+  },
+  {
+    "network": "SY",
+    "station": "220A",
+    "latitude": 31.9041,
+    "longitude": -108.526604,
+    "elevation_m": 1395.0,
+    "name": "220A synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 189.8773284888026
+  },
+  {
+    "network": "SC",
+    "station": "DAG",
+    "latitude": 32.591,
+    "longitude": -104.691704,
+    "elevation_m": 1280.0,
+    "name": "Dagger Draw, New Mexico",
+    "channels": [
+      "HHE",
+      "HHN",
+      "HHZ"
+    ],
+    "dist_km": 189.96757135123423
+  },
+  {
+    "network": "TX",
+    "station": "PB29",
+    "latitude": 31.75299,
+    "longitude": -104.514453,
+    "elevation_m": 1242.0,
+    "name": "Culberson North",
+    "channels": [
+      "HH1",
+      "HH2",
+      "HHZ"
+    ],
+    "dist_km": 190.33709165499295
+  },
+  {
+    "network": "TX",
+    "station": "PB28",
+    "latitude": 31.66864,
+    "longitude": -104.50077,
+    "elevation_m": 1204.0,
+    "name": "Culberson South",
+    "channels": [
+      "HH1",
+      "HH2",
+      "HHZ",
+      "HN1",
+      "HN2",
+      "HNZ"
+    ],
+    "dist_km": 192.5752963664044
+  },
+  {
+    "network": "SY",
+    "station": "Z21A",
+    "latitude": 33.308601,
+    "longitude": -107.671204,
+    "elevation_m": 1964.0,
+    "name": "Z21A synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 192.69579498461056
+  },
+  {
+    "network": "SY",
+    "station": "Z24A",
+    "latitude": 33.3298,
+    "longitude": -105.364899,
+    "elevation_m": 1863.0,
+    "name": "Z24A synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 194.84300500573246
+  },
+  {
+    "network": "SY",
+    "station": "125A",
+    "latitude": 32.658798,
+    "longitude": -104.657303,
+    "elevation_m": 1212.0,
+    "name": "125A synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 196.09022534631472
+  },
+  {
+    "network": "TX",
+    "station": "PB38",
+    "latitude": 31.72972,
+    "longitude": -104.426634,
+    "elevation_m": 1240.0,
+    "name": "UTL Block 46",
+    "channels": [
+      "HH1",
+      "HH2",
+      "HHZ",
+      "HN1",
+      "HN2",
+      "HNZ"
+    ],
+    "dist_km": 198.84335858575233
+  },
+  {
+    "network": "TX",
+    "station": "PB35",
+    "latitude": 31.656187,
+    "longitude": -104.43203,
+    "elevation_m": 1224.0,
+    "name": "UTL Block 46",
+    "channels": [
+      "HH1",
+      "HH2",
+      "HHZ",
+      "HN1",
+      "HN2",
+      "HNZ"
+    ],
+    "dist_km": 199.2169255543291
+  },
+  {
+    "network": "TX",
+    "station": "PB36",
+    "latitude": 31.680262,
+    "longitude": -104.425899,
+    "elevation_m": 1218.0,
+    "name": "UTL Block 46",
+    "channels": [
+      "HH1",
+      "HH2",
+      "HHZ",
+      "HN1",
+      "HN2",
+      "HNZ"
+    ],
+    "dist_km": 199.4689565747219
+  },
+  {
+    "network": "SY",
+    "station": "320A",
+    "latitude": 31.336901,
+    "longitude": -108.528397,
+    "elevation_m": 1414.0,
+    "name": "320A synthetic",
+    "channels": [
+      "LXE",
+      "LXN",
+      "LXZ",
+      "MXE",
+      "MXN",
+      "MXZ"
+    ],
+    "dist_km": 199.54375619228725
+  }
+]

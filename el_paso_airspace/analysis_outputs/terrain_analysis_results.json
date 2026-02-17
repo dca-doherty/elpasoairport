@@ -1,0 +1,30 @@
+{
+  "Spike 1": {
+    "range_km": 33.60000992926832,
+    "azimuth_deg": 89.14758471603943,
+    "beam_height_05_msl": 1610.6628252446144,
+    "beam_height_05_agl": 410.6628252446144,
+    "beam_height_05_lower_msl": 1332.1119154351502,
+    "beam_height_05_upper_msl": 1889.193582934457
+  },
+  "Spike 2": {
+    "range_km": 26.60615278153026,
+    "azimuth_deg": 88.68035426799914,
+    "beam_height_05_msl": 1524.846113742145,
+    "beam_height_05_agl": 324.846113742145,
+    "beam_height_05_lower_msl": 1304.2757008337505,
+    "beam_height_05_upper_msl": 1745.400569203662
+  },
+  "Spike 1_from_KHDX": {
+    "range_km": 135.36896575970482,
+    "azimuth_deg": 188.81993879593503,
+    "beam_height_05_msl": 3546.9057319283775,
+    "beam_height_05_agl": 2346.9057319283775
+  },
+  "Spike 2_from_KHDX": {
+    "range_km": 136.4696626773804,
+    "azimuth_deg": 191.7337792937761,
+    "beam_height_05_msl": 3574.1227555430332,
+    "beam_height_05_agl": 2374.1227555430332
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "search_params": {
+    "center_lat": 31.87,
+    "center_lon": -106.52,
+    "radius_km": 200
+  },
+  "stations_found": 41,
+  "station_list": [
+    {
+      "network": "28",
+      "station": "ASSS",
+      "lat": 31.93538,
+      "lon": -108.544465,
+      "elevation_m": 1345.0,
+      "name": "Airstrip",
+      "dist_km": 190.9772822932983
+    },
+    {
+      "network": "28",
+      "station": "CHSS",
+      "lat": 31.963704,
+      "lon": -108.520621,
+      "elevation_m": 1394.0,
+      "name": "Communication Hill",
+      "dist_km": 188.87825589166013
+    },
+    {
+      "network": "28",
+      "station": "CVSS",
+      "lat": 31.948301,
+      "lon": -108.49723,
+      "elevation_m": 1421.0,
+      "name": "Communication Village",
+      "dist_km": 186.58919930824447
+    },
+    {
+      "network": "28",
+      "station": "MVSS",
+      "lat": 31.884976,
+      "lon": -108.50845,
+      "elevation_m": 1411.0,
+      "name": "Mountain Village",
+      "dist_km": 187.4517061943292
+    },
+    {
+      "network": "28",
+      "station": "NMSS",
+      "lat": 31.921123,
+      "lon": -108.528004,
+      "elevation_m": 1366.0,
+      "name": "North Montana Cul-de-sac",
+      "dist_km": 189.37266454114913
+    },
+    {
+      "network": "EP",
+      "station": "KIDD",
+      "lat": 31.771774,
+      "lon": -106.506378,
+      "elevation_m": 1162.5,
+      "name": "KIDD Seismic Observatory, U. Texas El Paso, Texas, USA",
+      "dist_km": 10.978442269518242
+    },
+    {
+      "network": "JW",
+      "station": "BRR",
+      "lat": 32.772406,
+      "lon": -107.564169,
+      "elevation_m": 1640.0,
+      "name": "BRR",
+      "dist_km": 140.4348554819547
+    },
+    {
+      "network": "PN",
+      "station": "PPDHS",
+      "lat": 32.256001,
+      "lon": -107.763,
+      "elevation_m": 1321.0,
+      "name": "Deming High School, Deming, NM, USA",
+      "dist_km": 124.76128631067063
+    },
+    {
+      "network": "SC",
+      "station": "121A",
+      "lat": 32.532398,
+      "lon": -107.785103,
+      "elevation_m": 1652.0,
+      "name": "Cookes Peak, Deming, NM, USA",
+      "dist_km": 140.101063541519
+    },
+    {
+      "network": "SC",
+      "station": "DAG",
+      "lat": 32.591,
+      "lon": -104.691704,
+      "elevation_m": 1280.0,
+      "name": "Dagger Draw, New Mexico",
+      "dist_km": 190.0223871860307
+    },
+    {
+      "network": "SY",
+      "station": "121A",
+      "lat": 32.532398,
+      "lon": -107.785103,
+      "elevation_m": 1652.0,
+      "name": "121A synthetic",
+      "dist_km": 140.101063541519
+    },
+    {
+      "network": "SY",
+      "station": "122A",
+      "lat": 32.699501,
+      "lon": -107.000504,
+      "elevation_m": 1333.0,
+      "name": "122A synthetic",
+      "dist_km": 102.61292549073555
+    },
+    {
+      "network": "SY",
+      "station": "123A",
+      "lat": 32.634899,
+      "lon": -106.262199,
+      "elevation_m": 1206.0,
+      "name": "123A synthetic",
+      "dist_km": 88.31331273056085
+    },
+    {
+      "network": "SY",
+      "station": "124A",
+      "lat": 32.7001,
+      "lon": -105.454399,
+      "elevation_m": 2078.0,
+      "name": "124A synthetic",
+      "dist_km": 136.30954759620226
+    },
+    {
+      "network": "SY",
+      "station": "125A",
+      "lat": 32.658798,
+      "lon": -104.657303,
+      "elevation_m": 1212.0,
+      "name": "125A synthetic",
+      "dist_km": 196.2091078100881
+    },
+    {
+      "network": "SY",
+      "station": "220A",
+      "lat": 31.9041,
+      "lon": -108.526604,
+      "elevation_m": 1395.0,
+      "name": "220A synthetic",
+      "dist_km": 189.19351735345074
+    },
+    {
+      "network": "SY",
+      "station": "221A",
+      "lat": 32.009399,
+      "lon": -107.778198,
+      "elevation_m": 1277.0,
+      "name": "221A synthetic",
+      "dist_km": 119.61105446869821
+    },
+    {
+      "network": "SY",
+      "station": "222A",
+      "lat": 32.104599,
+      "lon": -107.101303,
+      "elevation_m": 1324.0,
+      "name": "222A synthetic",
+      "dist_km": 60.670138129917405
+    },
+    {
+      "network": "SY",
+      "station": "223A",
+      "lat": 32.006199,
+      "lon": -106.427597,
+      "elevation_m": 1232.0,
+      "name": "223A synthetic",
+      "dist_km": 17.447912363983324
+    },
+    {
+      "network": "SY",
+      "station": "224A",
+      "lat": 32.076,
+      "lon": -105.522598,
+      "elevation_m": 1487.0,
+      "name": "224A synthetic",
+      "dist_km": 96.76220896922933
+    }
+  ],
+  "analysis_complete": true
+}

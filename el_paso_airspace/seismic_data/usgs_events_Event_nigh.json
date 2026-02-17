@@ -1,0 +1,12 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generated": 1771351616000,
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2026-02-11T00%3A00%3A00&endtime=2026-02-12T00%3A00%3A00&latitude=31.87&longitude=-106.52&maxradiuskm=200&minmagnitude=0.0",
+    "title": "USGS Earthquakes",
+    "status": 200,
+    "api": "1.14.1",
+    "count": 0
+  },
+  "features": []
+}

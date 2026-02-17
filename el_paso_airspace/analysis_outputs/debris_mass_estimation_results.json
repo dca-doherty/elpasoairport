@@ -1,0 +1,61 @@
+{
+  "method1": {
+    "total_rcs_m2": 0.14138180884308688,
+    "n_cells_with_debris": 78.94555974683537,
+    "mass_range_kg": [
+      0.00575391082500935,
+      2.1207271326463033
+    ],
+    "mass_median_kg": 0.1354909001412916
+  },
+  "method2": {
+    "wire_mass_median_kg": 0.01373809742271772,
+    "metallic_fraction_range": [
+      0.15,
+      0.5
+    ],
+    "total_mass_range_kg": [
+      0.02747619484543544,
+      0.09158731615145146
+    ]
+  },
+  "method3": {
+    "debris_field_m": [
+      7853.981633974482,
+      5000.0
+    ],
+    "implied_flight_speed_ms": 38.79366435663722,
+    "balloon_spread_m": 1920.0
+  },
+  "method4": {
+    "beam_center_agl_m": 314.77048027063415,
+    "beam_thickness_m": 497.3941989946054,
+    "estimated_altitude_agl_m": [
+      2000,
+      3000
+    ],
+    "metallic_mass_kg": 0.35345452210771716
+  },
+  "method5": {
+    "chaff_equivalent_bundles": 5.275534226223061,
+    "chaff_equivalent_mass_g": 448.4204092289602,
+    "debris_mass_range_kg": [
+      4.484204092289602,
+      44.84204092289602
+    ]
+  },
+  "synthesis": {
+    "metallic_mass_median_kg": 0.24447271112450436,
+    "total_mass_best_estimate_kg": 0.8149090370816813,
+    "total_mass_range_kg": [
+      0.21010539892329624,
+      25.401103318343644
+    ],
+    "uas_group_classification": "Group 2-3",
+    "estimated_altitude_agl_m": [
+      2000,
+      3000
+    ],
+    "engagement_type": "HELWS laser"
+  }
+}

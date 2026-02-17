@@ -1,0 +1,16 @@
+{
+  "Spike 1": {
+    "z_dbz": 21.5,
+    "n_pixels": 196,
+    "rcs_single_point_m2": 0.020021742459222638,
+    "rcs_distributed_total_m2": 3.924261522007637,
+    "rcs_conservative_total_m2": 0.020021742459222645
+  },
+  "Spike 2": {
+    "z_dbz": 20.0,
+    "n_pixels": 144,
+    "rcs_single_point_m2": 0.014174308170031574,
+    "rcs_distributed_total_m2": 2.041100376484547,
+    "rcs_conservative_total_m2": 0.014174308170031565
+  }
+}

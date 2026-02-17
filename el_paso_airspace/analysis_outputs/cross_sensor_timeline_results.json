@@ -1,0 +1,139 @@
+{
+  "khdx_phase_analysis": {
+    "phase1_pre_notam": {
+      "mean_max_z": 14.75,
+      "peak_z": 18.0,
+      "total_n15": 3
+    },
+    "phase2_notam_to_s1": {
+      "mean_max_z": 17.75,
+      "peak_z": 19.0,
+      "total_n15": 15
+    },
+    "phase3_s1_to_s2": {
+      "mean_max_z": 19.571428571428573,
+      "peak_z": 26.5,
+      "total_n15": 39
+    },
+    "phase4_s2_to_tfr": {
+      "mean_max_z": 25.636363636363637,
+      "peak_z": 37.0,
+      "total_n15": 114
+    }
+  },
+  "khdx_peaks": [
+    {
+      "time": "0436",
+      "time_minutes": 276,
+      "max_z": 23.5,
+      "n15": 10
+    },
+    {
+      "time": "0457",
+      "time_minutes": 297,
+      "max_z": 26.5,
+      "n15": 16
+    },
+    {
+      "time": "0518",
+      "time_minutes": 318,
+      "max_z": 25.0,
+      "n15": 14
+    },
+    {
+      "time": "0533",
+      "time_minutes": 333,
+      "max_z": 30.5,
+      "n15": 8
+    },
+    {
+      "time": "0547",
+      "time_minutes": 347,
+      "max_z": 31.0,
+      "n15": 19
+    },
+    {
+      "time": "0554",
+      "time_minutes": 354,
+      "max_z": 26.5,
+      "n15": 17
+    },
+    {
+      "time": "0608",
+      "time_minutes": 368,
+      "max_z": 37.0,
+      "n15": 11
+    },
+    {
+      "time": "0615",
+      "time_minutes": 375,
+      "max_z": 25.0,
+      "n15": 13
+    },
+    {
+      "time": "0622",
+      "time_minutes": 382,
+      "max_z": 27.0,
+      "n15": 15
+    }
+  ],
+  "debris_landing_positions": [
+    {
+      "type": "Heavy structural",
+      "v_fall": 15.0,
+      "fall_time_s": 133.33333333333334,
+      "drift_east_m": 205.524364681096,
+      "drift_north_m": -138.40054400588295,
+      "landing_lat": 31.875753148252198,
+      "landing_lon": -106.33981975314143
+    },
+    {
+      "type": "Medium (PCB, motor)",
+      "v_fall": 5.0,
+      "fall_time_s": 400.0,
+      "drift_east_m": 598.5912134110433,
+      "drift_north_m": -380.8885105392873,
+      "landing_lat": 31.873568571977124,
+      "landing_lon": -106.33565001509855
+    },
+    {
+      "type": "Light (wire, foil)",
+      "v_fall": 1.5,
+      "fall_time_s": 1333.3333333333333,
+      "drift_east_m": 1969.2371008473347,
+      "drift_north_m": -1286.2769835435543,
+      "landing_lat": 31.865411919067174,
+      "landing_lon": -106.32110990743334
+    },
+    {
+      "type": "Very light (thin foil)",
+      "v_fall": 0.5,
+      "fall_time_s": 4000.0,
+      "drift_east_m": 5911.718721985672,
+      "drift_north_m": -3817.6072627134586,
+      "landing_lat": 31.842607141777354,
+      "landing_lon": -106.27928721072887
+    }
+  ],
+  "kepz_spikes": {
+    "Spike 1": {
+      "time_utc": "04:24",
+      "time_minutes": 264,
+      "peak_z_dbz": 18.0,
+      "pixels": 551,
+      "zdr_db": 10.0,
+      "cc": 0.6,
+      "range_km": 30.0,
+      "azimuth_deg": 88.0
+    },
+    "Spike 2": {
+      "time_utc": "05:13",
+      "time_minutes": 313,
+      "peak_z_dbz": 11.0,
+      "pixels": 456,
+      "range_km": 30.0,
+      "azimuth_deg": 90.0
+    }
+  },
+  "timeline_events": 23
+}

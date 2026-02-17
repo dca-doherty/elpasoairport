@@ -1,0 +1,63 @@
+{
+  "analysis": "GOES-19 GLM Optical Flash Analysis",
+  "note": "GOES-16 replaced by GOES-19 as GOES-East on April 7, 2025. Data from noaa-goes19 S3 bucket.",
+  "search_area": {
+    "center_lat": 31.87,
+    "center_lon": -106.52,
+    "radius_deg": 1.0,
+    "description": "Fort Bliss / El Paso"
+  },
+  "phase1_event_night": {
+    "window": "2026-02-11 03:00-07:00 UTC",
+    "files_processed": 900,
+    "errors": 0,
+    "flashes": 0,
+    "groups": 0,
+    "events": 0,
+    "total_detections": 0
+  },
+  "phase2_baseline_night": {
+    "window": "2026-02-10 03:00-07:00 UTC",
+    "files_processed": 900,
+    "errors": 0,
+    "flashes": 0,
+    "groups": 0,
+    "events": 0,
+    "total_detections": 0
+  },
+  "phase3_extended_window": {
+    "description": "Feb 8-12, 02:00-08:00 UTC each night",
+    "results": {
+      "2026-02-08": {"files": 1259, "detections": 0},
+      "2026-02-09": {"files": 1260, "detections": 0},
+      "2026-02-10": {"files": 1260, "detections": 103},
+      "2026-02-11": {"files": 1260, "detections": 0}
+    }
+  },
+  "feb10_drilldown": {
+    "total_detections": 103,
+    "files_with_detections": 5,
+    "by_type": {"flash": 0, "group": 8, "event": 95},
+    "temporal": {
+      "all_in_hour": "02 UTC (02:07-02:36 UTC)",
+      "burst_duration_minutes": 29
+    },
+    "spatial": {
+      "lat_range": [30.870, 30.883],
+      "lon_range": [-107.443, -107.242],
+      "distance_from_fort_bliss_km": {"min": 130.6, "max": 140.5, "mean": 133.6},
+      "within_50km_of_fort_bliss": 0,
+      "location_description": "Columbus/Deming, NM area (~130km WSW of Fort Bliss)"
+    },
+    "energy_J": {"min": 9.7e-16, "max": 1.06e-14, "mean": 2.48e-15},
+    "skysentinel_coincidence": {
+      "skysentinel_time": "2026-02-10 03:43 UTC",
+      "detections_within_10min": 0,
+      "detections_within_30min": 0,
+      "gap_minutes": 67
+    },
+    "interpretation": "Faint distant lightning or GLM noise/hot pixels, unrelated to Fort Bliss"
+  },
+  "verdict": "no_detection_at_fort_bliss",
+  "assessment": "GLM shows zero optical transients at Fort Bliss across all 5 nights. The 103 Feb 10 detections are distant lightning ~130km WSW. Null result does not rule out HELWS -- most DE weapons operate at wavelengths outside GLM's 777.4nm passband."
+}

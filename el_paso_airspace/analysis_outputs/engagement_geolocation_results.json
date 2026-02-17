@@ -1,0 +1,228 @@
+{
+  "event_positions": [
+    {
+      "event_id": "E1",
+      "name": "Initial Detection",
+      "confidence": "Initial",
+      "n_returns": 59,
+      "n_strong_returns": 22,
+      "peak_lat": 31.83000731846413,
+      "peak_lon": -106.48753721822288,
+      "peak_ref_dBZ": 18.0,
+      "peak_az_from_khdx": 193.74664306640625,
+      "peak_range_from_khdx_km": 142.875,
+      "centroid_lat": 31.87505793386534,
+      "centroid_lon": -106.48587917587925,
+      "strong_centroid_lat": 31.875312521250216,
+      "strong_centroid_lon": -106.49228970886514,
+      "extent_ns_km": 22.57879022354358,
+      "extent_ew_km": 18.853858271222038,
+      "bbox": {
+        "lat_min": 31.791742846845413,
+        "lat_max": 31.99515537138184,
+        "lon_min": -106.53005182609762,
+        "lon_max": -106.33003843229253
+      },
+      "kepz_visible": false
+    },
+    {
+      "event_id": "E2",
+      "name": "Primary Engagement (KEPZ S1)",
+      "confidence": "Confirmed",
+      "n_returns": 61,
+      "n_strong_returns": 27,
+      "peak_lat": 31.81090900065751,
+      "peak_lon": -106.50722907994171,
+      "peak_ref_dBZ": 23.5,
+      "peak_az_from_khdx": 194.249267578125,
+      "peak_range_from_khdx_km": 145.375,
+      "centroid_lat": 31.832823750174974,
+      "centroid_lon": -106.49140132815373,
+      "strong_centroid_lat": 31.820301391014908,
+      "strong_centroid_lon": -106.49426259343767,
+      "extent_ns_km": 23.39752310499372,
+      "extent_ew_km": 23.67683409582411,
+      "bbox": {
+        "lat_min": 31.79595057457684,
+        "lat_max": 32.006739071018224,
+        "lon_min": -106.53416283498498,
+        "lon_max": -106.2829679380312
+      },
+      "kepz_visible": true,
+      "kepz_lat": 31.882532296406083,
+      "kepz_lon": -106.38003668690847
+    },
+    {
+      "event_id": "E3",
+      "name": "Hidden Engagement",
+      "confidence": "Likely",
+      "n_returns": 60,
+      "n_strong_returns": 32,
+      "peak_lat": 31.88512962658639,
+      "peak_lon": -106.48473417243007,
+      "peak_ref_dBZ": 26.5,
+      "peak_az_from_khdx": 194.249267578125,
+      "peak_range_from_khdx_km": 136.875,
+      "centroid_lat": 31.845295070397082,
+      "centroid_lon": -106.48967224572704,
+      "strong_centroid_lat": 31.8436424176254,
+      "strong_centroid_lon": -106.4916316892825,
+      "extent_ns_km": 22.7152165112336,
+      "extent_ew_km": 25.418220946630928,
+      "bbox": {
+        "lat_min": 31.79937897630927,
+        "lat_max": 32.004020566500564,
+        "lon_min": -106.52653396735069,
+        "lon_max": -106.25695014278199
+      },
+      "kepz_visible": false
+    },
+    {
+      "event_id": "E4",
+      "name": "Second Engagement (KEPZ S2)",
+      "confidence": "Confirmed",
+      "n_returns": 94,
+      "n_strong_returns": 39,
+      "peak_lat": 31.81250540866135,
+      "peak_lon": -106.49264710054271,
+      "peak_ref_dBZ": 25.0,
+      "peak_az_from_khdx": 193.74664306640625,
+      "peak_range_from_khdx_km": 144.875,
+      "centroid_lat": 31.826196006129212,
+      "centroid_lon": -106.5002038331715,
+      "strong_centroid_lat": 31.8225302404273,
+      "strong_centroid_lon": -106.50358951189746,
+      "extent_ns_km": 26.599004150623642,
+      "extent_ew_km": 23.037667613193587,
+      "bbox": {
+        "lat_min": 31.769864075383552,
+        "lat_max": 32.00949474340719,
+        "lon_min": -106.53587936718328,
+        "lon_max": -106.29152608324378
+      },
+      "kepz_visible": true,
+      "kepz_lat": 31.910714351610828,
+      "kepz_lon": -106.38294007029347
+    },
+    {
+      "event_id": "E5",
+      "name": "Escalation",
+      "confidence": "Likely",
+      "n_returns": 143,
+      "n_strong_returns": 81,
+      "peak_lat": 31.885144177687966,
+      "peak_lon": -106.4848025480997,
+      "peak_ref_dBZ": 31.0,
+      "peak_az_from_khdx": 194.25201416015625,
+      "peak_range_from_khdx_km": 136.875,
+      "centroid_lat": 31.833994093796353,
+      "centroid_lon": -106.49465809664791,
+      "strong_centroid_lat": 31.83226441840659,
+      "strong_centroid_lon": -106.49558948147713,
+      "extent_ns_km": 22.135113913906853,
+      "extent_ew_km": 24.815510370797032,
+      "bbox": {
+        "lat_min": 31.80219272335398,
+        "lat_max": 32.00160816401981,
+        "lon_min": -106.53422639360069,
+        "lon_max": -106.2709962646546
+      },
+      "kepz_visible": false
+    },
+    {
+      "event_id": "E6",
+      "name": "Maximum Return",
+      "confidence": "Probable",
+      "n_returns": 105,
+      "n_strong_returns": 56,
+      "peak_lat": 31.81090900065751,
+      "peak_lon": -106.50722907994171,
+      "peak_ref_dBZ": 37.0,
+      "peak_az_from_khdx": 194.249267578125,
+      "peak_range_from_khdx_km": 145.375,
+      "centroid_lat": 31.822725399502247,
+      "centroid_lon": -106.50110574609678,
+      "strong_centroid_lat": 31.82161195887873,
+      "strong_centroid_lon": -106.50171020942179,
+      "extent_ns_km": 22.716831380348978,
+      "extent_ew_km": 25.644560463050436,
+      "bbox": {
+        "lat_min": 31.79937897630927,
+        "lat_max": 32.00403511487097,
+        "lon_min": -106.53416283498498,
+        "lon_max": -106.26218938742595
+      },
+      "kepz_visible": false
+    }
+  ],
+  "best_positions": [
+    {
+      "event_id": "E1",
+      "name": "Initial Detection",
+      "lat": 31.875312521250216,
+      "lon": -106.49228970886514,
+      "source": "KHDX >10dBZ",
+      "accuracy": "~2-5 km"
+    },
+    {
+      "event_id": "E2",
+      "name": "Primary Engagement (KEPZ S1)",
+      "lat": 31.882532296406083,
+      "lon": -106.38003668690847,
+      "source": "KEPZ",
+      "accuracy": "~0.5 km"
+    },
+    {
+      "event_id": "E3",
+      "name": "Hidden Engagement",
+      "lat": 31.8436424176254,
+      "lon": -106.4916316892825,
+      "source": "KHDX >10dBZ",
+      "accuracy": "~2-5 km"
+    },
+    {
+      "event_id": "E4",
+      "name": "Second Engagement (KEPZ S2)",
+      "lat": 31.910714351610828,
+      "lon": -106.38294007029347,
+      "source": "KEPZ",
+      "accuracy": "~0.5 km"
+    },
+    {
+      "event_id": "E5",
+      "name": "Escalation",
+      "lat": 31.83226441840659,
+      "lon": -106.49558948147713,
+      "source": "KHDX >10dBZ",
+      "accuracy": "~2-5 km"
+    },
+    {
+      "event_id": "E6",
+      "name": "Maximum Return",
+      "lat": 31.82161195887873,
+      "lon": -106.50171020942179,
+      "source": "KHDX >10dBZ",
+      "accuracy": "~2-5 km"
+    }
+  ],
+  "kepz_derived": {
+    "spike1": {
+      "lat": 31.882532296406083,
+      "lon": -106.38003668690847
+    },
+    "spike2": {
+      "lat": 31.910714351610828,
+      "lon": -106.38294007029347
+    }
+  },
+  "radar_sites": {
+    "KEPZ": {
+      "lat": 31.8731,
+      "lon": -106.6981
+    },
+    "KHDX": {
+      "lat": 33.0803,
+      "lon": -106.1225
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "events_over_residential": [
+    "E3",
+    "E5",
+    "E6"
+  ],
+  "events_near_residential": [
+    "E1",
+    "E2"
+  ],
+  "events_on_military_land": [
+    "E4"
+  ],
+  "nearest_residential_neighborhoods": {
+    "E1": "Franklin Mtns / Castner Heights edge (~3 km)",
+    "E2": "Biggs AAF / Castner Heights boundary (~2 km)",
+    "E3": "Castner Heights / Hondo Pass (directly over or adjacent)",
+    "E4": "Fort Bliss military (3 km from NE residential)",
+    "E5": "Mission Hills / Westside (directly over or adjacent)",
+    "E6": "Westside / I-10 corridor (directly over or adjacent)"
+  },
+  "border_proximity_km": {
+    "E5": 9.6,
+    "E6": 8.9
+  }
+}

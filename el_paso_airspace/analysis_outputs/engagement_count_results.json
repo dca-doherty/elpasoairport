@@ -1,0 +1,113 @@
+{
+  "engagement_count_estimate": {
+    "method1_debris_pulses": 5,
+    "method2_reflectivity_jumps": 4,
+    "method3_persistence_minimum": 6,
+    "best_estimate_range": "5-7",
+    "confirmed_by_kepz": 2,
+    "khdx_only_events": "3-5"
+  },
+  "inter_engagement_intervals_min": [
+    59,
+    33,
+    16,
+    27,
+    28
+  ],
+  "mean_interval_min": 32.6,
+  "event_times_utc": [
+    "03:25",
+    "04:24",
+    "04:57",
+    "05:13",
+    "05:40",
+    "06:08"
+  ],
+  "debris_pulse_events": [
+    {
+      "peak_time": "04:36",
+      "peak_time_min": "276",
+      "trough_time": "04:21",
+      "peak_n15": 10,
+      "peak_n15_smooth": 6.0,
+      "trough_n15_smooth": 1.5,
+      "rise_magnitude": 4.5,
+      "max_z_at_peak": 23.5,
+      "peak_n5": 21
+    },
+    {
+      "peak_time": "04:57",
+      "peak_time_min": "297",
+      "trough_time": "04:43",
+      "peak_n15": 16,
+      "peak_n15_smooth": 9.0,
+      "trough_n15_smooth": 3.0,
+      "rise_magnitude": 6.0,
+      "max_z_at_peak": 26.5,
+      "peak_n5": 33
+    },
+    {
+      "peak_time": "05:18",
+      "peak_time_min": "318",
+      "trough_time": "05:11",
+      "peak_n15": 14,
+      "peak_n15_smooth": 10.0,
+      "trough_n15_smooth": 7.0,
+      "rise_magnitude": 3.0,
+      "max_z_at_peak": 25.0,
+      "peak_n5": 43
+    },
+    {
+      "peak_time": "05:47",
+      "peak_time_min": "347",
+      "trough_time": "05:33",
+      "peak_n15": 19,
+      "peak_n15_smooth": 15.0,
+      "trough_n15_smooth": 7.0,
+      "rise_magnitude": 8.0,
+      "max_z_at_peak": 31.0,
+      "peak_n5": 45
+    },
+    {
+      "peak_time": "06:15",
+      "peak_time_min": "375",
+      "trough_time": "06:01",
+      "peak_n15": 13,
+      "peak_n15_smooth": 13.0,
+      "trough_n15_smooth": 8.0,
+      "rise_magnitude": 5.0,
+      "max_z_at_peak": 25.0,
+      "peak_n5": 27
+    }
+  ],
+  "reflectivity_jumps": [
+    {
+      "time": "04:57",
+      "time_min": "297",
+      "prev_z": 9.0,
+      "new_z": 26.5,
+      "jump_db": 17.5
+    },
+    {
+      "time": "05:33",
+      "time_min": "333",
+      "prev_z": 24.0,
+      "new_z": 30.5,
+      "jump_db": 6.5
+    },
+    {
+      "time": "05:47",
+      "time_min": "347",
+      "prev_z": 21.5,
+      "new_z": 31.0,
+      "jump_db": 9.5
+    },
+    {
+      "time": "06:08",
+      "time_min": "368",
+      "prev_z": 16.5,
+      "new_z": 37.0,
+      "jump_db": 20.5
+    }
+  ]
+}
